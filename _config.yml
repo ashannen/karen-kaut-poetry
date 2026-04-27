@@ -20,13 +20,13 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Karen Kaut Poetry
+title: Karen Kaut's Poetry
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: Originally published in Lyrical Iowa
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: Karen Kaut's life's work spanning from 1991-2015.
-author: CollectionBuilder
+author: Karen Kaut
 
 ##########
 # COLLECTION SETTINGS
